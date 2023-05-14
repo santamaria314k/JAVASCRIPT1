@@ -1,0 +1,92 @@
+form {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:350px;
+    
+
+
+
+
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 70px;
+    left: 50%;
+    height: 100px; 
+    width: 100px; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+
+
+  }
+  
+  label {
+    margin-bottom: 0.5em;
+  }
+  
+  input[type="text"], input[type="password"] {
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1em;
+  }
+  
+  input[type="submit"] {
+    background-color:black;
+    color: white;
+    padding: 0.5em;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+
+  .img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 30%;
+    width: 30%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+  }
+
+
+
+  .loj{position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 70px;
+    left: 50%;
+    height: 100px; 
+    width: 100px; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+    
+  }
+
+  .loginto{
+
+position: absolute;
+top: -250%;
+width: -220%;
+height: 199%;
+
+
+  }
